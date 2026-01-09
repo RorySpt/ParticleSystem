@@ -1,0 +1,12 @@
+{
+  "version": 10,
+  "configurePresets": [
+    {
+      "name": "my-vcpkg-windows",
+      "inherits": ["vcpkg-windows"],
+      "environment": {
+        "VCPKG_ROOT": "C:/Users/admin/.vcpkg-clion/vcpkg"
+      }
+    }
+  ]
+}
