@@ -9,7 +9,7 @@
         "CMAKE_TOOLCHAIN_FILE": "$env{VCPKG_ROOT}/scripts/buildsystems/vcpkg.cmake"
       },
       "environment": {
-        "CMAKE_POLICY_VERSION_MINIMUM": "3.3",
+        "CMAKE_POLICY_VERSION_MINIMUM": "4.0",
         "VCPKG_KEEP_ENV_VARS": "CMAKE_POLICY_VERSION_MINIMUM"
       }
     },

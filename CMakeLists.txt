@@ -3,4 +3,5 @@ set(CMAKE_CXX_STANDARD 26)
 
 project(particle-system)
 
+add_subdirectory(deps)
 add_subdirectory(particle-test)
